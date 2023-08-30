@@ -12,7 +12,7 @@ Passionate Full Stack Developer and Web Designer on the lookout for exciting new
 
 **Tech Stack & Tools:**
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,express,vue,angular,nuxt,vite,mongodb,prisma,postgres,tensorflow,threejs,jest,postman,firebase,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,express,react,vue,angular,nuxt,vite,mongodb,prisma,postgres,tensorflow,threejs,jest,postman,firebase,figma)](https://skillicons.dev)<br/>
 
 Whether it's breathing life into code or designing user-centric interfaces, I'm committed to crafting exceptional digital solutions that leave a lasting impact. Let's connect and innovate together!
 
