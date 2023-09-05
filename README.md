@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Keeno Lee
+### Hi there! 👋 I'm Keeno Lee ~
 
 Passionate Full Stack Developer and Web Designer on the lookout for exciting new job opportunities. Currently based in North York, Toronto, I hold an open work permit, eager to bring my technical skills and creative flair to your team.
 
