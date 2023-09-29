@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Keeno Lee ~
 
-Passionate Full Stack Developer and Web Designer on the lookout for exciting new job opportunities. Currently based in North York, Toronto, I hold an open work permit, eager to bring my technical skills and creative flair to your team.
+Passionate Full Stack Developer, Web Designer and Mobile Application Developer on the lookout for exciting new job opportunities. Currently based in North York, Toronto, I hold an open work permit, eager to bring my technical skills and creative flair to your team.
 
 🚀 **Highlights:**
 - 🌐 Frontend Wizard: Creating captivating user interfaces that balance aesthetics and functionality using modern frameworks like React.
