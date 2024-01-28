@@ -3,7 +3,7 @@
 Passionate Software Developer, Web Designer and Mobile Application Developer on the lookout for exciting new job opportunities. Currently based in North York, Toronto, I hold an open work permit, eager to bring my technical skills and creative flair to your team.
 
 🚀 **Highlights:**
-- 🌐 Frontend Wizard: Creating captivating user interfaces that balance aesthetics and functionality using modern frameworks like React.
+- 🌐 Frontend Wizard: Creating captivating user interfaces that balance aesthetics and functionality using modern frameworks like React, Next.
 - 🛠 Backend Enthusiast: Proficient in building robust server-side systems, ensuring seamless data management and interaction.
 - 🎨 Design Fusion: Merging my technical expertise with a keen eye for design to create visually striking web interfaces.
 - 🤝 Collaborative Mindset: Thriving in cross-functional teams, I believe that synergy fuels innovation and growth.
