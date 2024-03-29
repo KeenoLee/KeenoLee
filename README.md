@@ -8,7 +8,7 @@ Passionate Software Developer, Mobile Application Developer on the lookout for e
 - 🎨 Design Fusion: Merging my technical expertise with a keen eye for design to create visually striking web interfaces.
 - 🤝 Collaborative Mindset: Thriving in cross-functional teams (includes UX/UI, QA team), I believe that synergy fuels innovation and growth.
 - 📈 Problem Solver: I relish in solving intricate puzzles, turning complex requirements into elegant and effective solutions.
-- 🎯 Digital Marketing Maven: Proficient in Google Analytics, Google Tag Manager, Google Ads, Facebook Ads, Bing Ads, Programmatic Ads and web builders (Wordpress, Shopify, Magento). My programming journey began with the desire to enhance digital marketing efforts through technical expertise.
+- 🎯 Digital Marketing Maven: Proficient in Google Analytics, Google Tag Manager, Google Ads, Facebook Ads, Bing Ads, Programmatic Ads and web builders (Wordpress, Shopify). My programming journey began with the desire to enhance digital marketing efforts through technical expertise.
 - 🌐 Portfolio: [My Portfolio Website] : https://www.keenolee.io/
 
 
